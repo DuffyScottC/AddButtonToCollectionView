@@ -12,6 +12,7 @@
 		D28A487D1D563334009AC383 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = D28A487B1D563334009AC383 /* Main.storyboard */; };
 		D28A487F1D563334009AC383 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = D28A487E1D563334009AC383 /* Assets.xcassets */; };
 		D28A48821D563334009AC383 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = D28A48801D563334009AC383 /* LaunchScreen.storyboard */; };
+		D28A488A1D5634FC009AC383 /* MyCollectionViewCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = D28A48891D5634FC009AC383 /* MyCollectionViewCell.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -22,6 +23,7 @@
 		D28A487E1D563334009AC383 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		D28A48811D563334009AC383 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		D28A48831D563334009AC383 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		D28A48891D5634FC009AC383 /* MyCollectionViewCell.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = MyCollectionViewCell.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -57,6 +59,7 @@
 				D28A48771D563334009AC383 /* AppDelegate.swift */,
 				D28A48791D563334009AC383 /* ViewController.swift */,
 				D28A487B1D563334009AC383 /* Main.storyboard */,
+				D28A48891D5634FC009AC383 /* MyCollectionViewCell.swift */,
 				D28A487E1D563334009AC383 /* Assets.xcassets */,
 				D28A48801D563334009AC383 /* LaunchScreen.storyboard */,
 				D28A48831D563334009AC383 /* Info.plist */,
@@ -138,6 +141,7 @@
 			files = (
 				D28A487A1D563334009AC383 /* ViewController.swift in Sources */,
 				D28A48781D563334009AC383 /* AppDelegate.swift in Sources */,
+				D28A488A1D5634FC009AC383 /* MyCollectionViewCell.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
